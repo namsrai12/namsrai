@@ -13,6 +13,6 @@
     <script type="text/babel">
 
     </script>
-<script type="text/babel " src='./index.js'></script>    
+<script type="text/babel" src='./index.js'></script>    
   </body>
 </html>
